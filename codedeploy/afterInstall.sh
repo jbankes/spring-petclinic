@@ -1,3 +1,3 @@
 #!/bin/bash
 
-service tomcat restart
+service tomcat7 restart
