@@ -12,3 +12,4 @@ artifacts:
   files:
     - target/petclinic.war
     - appspec.yml
+    - codedeploy/*
