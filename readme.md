@@ -1,5 +1,8 @@
 # Spring PetClinic Sample Application
 
+## Bamboo POC
+Bamboo should create a plan branch for this. 
+
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
 
