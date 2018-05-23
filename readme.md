@@ -1,6 +1,5 @@
 # Spring PetClinic Sample Application
-
-Justin Testing
+Looking at how things are triggered in Bamboo. 
 
 
 ## Understanding the Spring Petclinic application with a few diagrams
